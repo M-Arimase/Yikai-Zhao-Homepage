@@ -1,5 +1,5 @@
 ---
-title: "The Stair Sketch: Bringing more Clarity to Memorize Recent Events."
+title: "The Stair Sketch: Bringing more Clarity to Memorize Recent Events"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
