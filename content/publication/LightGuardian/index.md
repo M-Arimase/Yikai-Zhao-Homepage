@@ -35,8 +35,8 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: 18th USENIX Symposium on Networked Systems Design and Implementation
-publication_short: **USENIX NSDI 2021**
+publication: In *18th USENIX Symposium on Networked Systems Design and Implementation*
+publication_short: In *USENIX NSDI 2021*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -84,3 +84,13 @@ publication_short: **USENIX NSDI 2021**
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
