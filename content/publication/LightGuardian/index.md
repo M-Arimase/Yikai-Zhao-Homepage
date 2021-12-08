@@ -24,8 +24,8 @@ authors:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: The 18th USENIX Symposium on Networked Systems Design and Implementation
+publication_short: **USENIX NSDI 2021**
 
 
 ---
