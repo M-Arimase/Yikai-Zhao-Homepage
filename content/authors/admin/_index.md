@@ -70,7 +70,7 @@ email: "zhaoyikai@pku.edu.cn"
 highlight_name: true
 ---
 
-Hi! I am a second-year PhD student in [EECS](https://eecs.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/), advised by [Prof. Tong Yang](https://yangtonghome.github.io/). My research interests lie in Computer Networks, Distributed Systems, and Probabilistic Algorithms.
+Hi! I am a second-year PhD student in [EECS](https://eecs.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/), advised by [Prof. Tong Yang](https://yangtonghome.github.io/). 
 I received my B.S. degree in Computer Science and B.S. degree in Mathematical Science from Peking University in 2021.
 
 My name written in Chinese is 赵义凯. 
