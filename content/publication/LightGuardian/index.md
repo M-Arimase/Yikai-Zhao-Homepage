@@ -5,7 +5,17 @@ title: "LightGuardian: A Full-Visibility, Lightweight, In-band Telemetry System 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
+- Yikai Zhao
+- Kaicheng Yang
+- Zirui Liu
+- Tong Yang
+- Li Chen
+- Shiyi Liu
+- Naiqian Zheng
+- Ruixin Wang
+- Hanbo Wu
+- Yi Wang
+- Nicholas Zhang
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
