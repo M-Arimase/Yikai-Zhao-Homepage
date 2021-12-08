@@ -25,8 +25,8 @@ date_format: Jan 2006
 ---
 
 - Chancellor's Scholarship (校长奖学金), Peking University (2021, 2020)
-- Tung Scholarship (董氏奖学金), Peking University (2020)
-- Merit Studen (三好学生), Peking University (2020)
+- Tung Scholarship (董氏奖学金), Peking University (2021)
+- Merit Studen (三好学生), Peking University (2021)
 - Award for Academic Excellence (学习优秀奖), Peking University (2019, 2017)
 - National Scholarship (国家奖学金), Ministry of Education (2018)
 - Pacemaker to Merit Studen (三好学生标兵), Peking University (2018)
