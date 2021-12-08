@@ -13,7 +13,7 @@ authors:
 - Tong Yang
 - Bin Cui
 
-data: "2022-06-12T00:00:00Z"
+date: "2022-06-12T00:00:00Z"
 
 publishDate: "2021-12-06T00:00:00Z"
 
