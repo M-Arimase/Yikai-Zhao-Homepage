@@ -15,7 +15,7 @@ authors:
 
 data: "2022-06-12T00:00:00Z"
 
-publishDate: "2021-12-07T00:00:00Z"
+publishDate: "2021-12-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
