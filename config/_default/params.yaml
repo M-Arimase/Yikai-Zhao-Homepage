@@ -23,12 +23,12 @@ twitter: ''
 email: zhaoyikai@pku.edu.cn
 phone: (+86) 188-1088-0869
 address:
-  street: Peking University, No.5 Yiheyuan Road, Haidian District
+  street: Peking University, No.5 Yiheyuan Road Haidian District
 #   city: Stanford
-  region: Beijing
+  region: Beijing, P.R.China
   postcode: '100871'
-  country: China
-  country_code: CN
+#   country: China
+#   country_code: CN
 coordinates:
   latitude: '39.98916666666667'
   longitude: '116.30666666666667'
@@ -141,7 +141,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'OpenStreetMap'
   api_key: ''
   zoom: 15
 marketing:
