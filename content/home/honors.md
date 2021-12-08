@@ -17,12 +17,13 @@ subtitle: ''
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
+---
+
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
----
 
 - Chancellor's Scholarship (校长奖学金), Peking University (2021, 2020)
 - Tung Scholarship (董氏奖学金), Peking University (2020)
