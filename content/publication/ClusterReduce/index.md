@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Cluster-Reduce: Compressing Sketches for Distributed Data Streams"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
