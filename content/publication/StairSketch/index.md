@@ -10,10 +10,9 @@ authors:
 - Pu Yi
 - Tong Yang
 - Bin Cui
-- Uhlig Steve. 
+- Uhlig Steve
 
-
-date: "2022-05-09T00:00:00Z"
+# date: "2022-05-09T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,6 +22,6 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 38th IEEE International Conference on Data Engineering"
-publication_short: To appear in *IEEE ICDE 2022*
+publication_short: "To appear in *IEEE ICDE 2022*"
 
 ---
