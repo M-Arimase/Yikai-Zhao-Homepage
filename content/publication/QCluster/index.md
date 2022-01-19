@@ -26,6 +26,6 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 31st International World Wide Web Conferences"
-publication_short: "To appear in ***WWW 2022***"
+publication_short: "To appear in ***ACM WWW 2022***"
 
 ---
