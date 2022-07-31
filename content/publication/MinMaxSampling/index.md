@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 48th ACM International Conference on Management of Data"
-publication_short: "To appear in ***ACM SIGMOD 2022***"
+publication_short: "**ACM SIGMOD 2022**"
 
 
 ---

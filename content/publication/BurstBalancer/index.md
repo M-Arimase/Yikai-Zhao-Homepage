@@ -1,22 +1,27 @@
 ---
-title: "QCluster: Clustering Packets for Flow Scheduling"
+title: "BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Yang
-- Jizhou Li
+- Zirui Liu
 - admin
+- Zhuochen Fan
+- Tong Yang
+- Xiaodong Li
+- Ruwen Zhang
 - Kaicheng Yang
-- Hao Wang
-- Jie Jiang
-- Yinda Zhang
-- Nicholas Zhang
+- Zheng Zhong
+- Yi Huang
+- Cong Liu
+- Jing Hu
+- Gaogang Xie
+- Bin Cui
 
-date: "2022-04-25T00:00:00Z"
+date: "2022-10-30T00:00:00Z"
 
-publishDate: "2022-01-13T00:00:00Z"
+publishDate: "2022-07-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +30,7 @@ publishDate: "2022-01-13T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The 31st International World Wide Web Conferences"
-publication_short: "**ACM WWW 2022**"
+publication: "The 30th IEEE International Conference on Network Protocols"
+publication_short: "To appear in ***IEEE ICNP 2022***"
 
 ---

@@ -24,6 +24,6 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 38th IEEE International Conference on Data Engineering"
-publication_short: "To appear in ***IEEE ICDE 2022***"
+publication_short: "**IEEE ICDE 2022**"
 
 ---
