@@ -23,6 +23,8 @@ publication_types: ["1"]
 
 date: "2023-04-03T20:00:00+08:00"
 
+publishDate: "2022-09-08T00:00:00Z"
+
 # Publication name and optional abbreviated publication name.
 publication: "The 39th IEEE International Conference on Data Engineering"
 publication_short: "To appear in ***IEEE ICDE 2023***"
