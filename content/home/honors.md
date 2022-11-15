@@ -30,7 +30,7 @@ date_format: Jan 2006
 
 - Tung Scholarship (董氏奖学金), Peking University (2021)
 
-- Merit Studen (三好学生), Peking University (2021)
+- Merit Studen (三好学生), Peking University (2021, 2022)
 
 - Award for Academic Excellence (学习优秀奖), Peking University (2017, 2019)
 
