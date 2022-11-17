@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=IeL-YJkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/M-Arimase
+  link: https://github.com/Arimase97
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/
