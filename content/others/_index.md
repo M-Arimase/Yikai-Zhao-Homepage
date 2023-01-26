@@ -1,5 +1,5 @@
 ---
-title: Selected Publications
+title: Other Publications
 cms_exclude: true
 
 # View.
