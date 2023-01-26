@@ -26,5 +26,7 @@ publication_types: ["1"]
 publication: "The 49th ACM International Conference on Management of Data"
 publication_short: "To appear in ***ACM SIGMOD 2023***"
 
+tags:
+- selected
 
 ---

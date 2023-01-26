@@ -27,5 +27,7 @@ publication_types: ["1"]
 publication: "The 48th ACM International Conference on Management of Data"
 publication_short: "**ACM SIGMOD 2022**"
 
+tags:
+- selected
 
 ---

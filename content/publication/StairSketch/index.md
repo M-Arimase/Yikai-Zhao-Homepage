@@ -26,4 +26,7 @@ publication_types: ["1"]
 publication: "The 38th IEEE International Conference on Data Engineering"
 publication_short: "**IEEE ICDE 2022**"
 
+tags:
+- selected
+
 ---

@@ -1,19 +1,27 @@
 ---
-title: "HyperCalm Sketch: One-Pass Mining Periodic Batches in Data Streams"
+title: "BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traffic"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zirui Liu
-- Chaozhe Kong
-- Kaicheng Yang
-- Tong Yang
-- Ruijie Miao
-- Qizhi Chen
 - admin
-- Yaofeng Tu
+- Zhuochen Fan
+- Tong Yang
+- Xiaodong Li
+- Ruwen Zhang
+- Kaicheng Yang
+- Zheng Zhong
+- Yi Huang
+- Cong Liu
+- Jing Hu
+- Gaogang Xie
 - Bin Cui
+
+date: "2022-10-30T00:00:00Z"
+
+publishDate: "2022-07-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,12 +29,11 @@ authors:
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-date: "2023-04-03T20:00:00+08:00"
-
-publishDate: "2022-09-08T00:00:00Z"
-
 # Publication name and optional abbreviated publication name.
-publication: "The 39th IEEE International Conference on Data Engineering"
-publication_short: "To appear in ***IEEE ICDE 2023***"
+publication: "The 30th IEEE International Conference on Network Protocols"
+publication_short: "To appear in ***IEEE ICNP 2022***"
+
+tags:
+- others
 
 ---
