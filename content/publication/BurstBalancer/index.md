@@ -31,7 +31,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 30th IEEE International Conference on Network Protocols"
-publication_short: "To appear in ***IEEE ICNP 2022***"
+publication_short: "**IEEE ICNP 2022**"
 
 tags:
 - others
