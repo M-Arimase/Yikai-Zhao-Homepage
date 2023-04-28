@@ -5,15 +5,25 @@ title: "AAsclepius: Monitoring, Diagnosing, and Detouring at the Internet Peerin
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yuhan Wu
-- Siyuan Dong
-- Yi Zhou
-- admin
-- Fangcheng Fu
+- Kaicheng Yang
+- Yuanpeng Li
+- Sheng Long
 - Tong Yang
-- Chaoyue Niu
-- Fan Wu
-- Bin Cui
+- Ruijie Miao
+- admin
+- Chaoyang Ji
+- Penghui Mi
+- Guodong Yang
+- Qiong Xie
+- Hao Wang
+- Yinhua Wang
+- Bo Deng
+- Zhiqiang Liao
+- Chengqiang Huang
+- Yongqiang Yang
+- Xiang Huang
+- Wei Sun
+- Xiaoping Zhu
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
