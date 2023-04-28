@@ -5,12 +5,25 @@ title: "Double-Anonymous Sketch: Achieving Fairness for Finding Global Top-K Fre
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Wenchen Han
-- Zheng Zhong
-- Yinda Zhang
+- Kaicheng Yang
+- Yuanpeng Li
+- Sheng Long
 - Tong Yang
-- Bin Cui
+- Ruijie Miao
+- admin
+- Chaoyang Ji
+- Penghui Mi
+- Guodong Yang
+- Qiong Xie
+- Hao Wang
+- Yinhua Wang
+- Bo Deng
+- Zhiqiang Liao
+- Chengqiang Huang
+- Yongqiang Yang
+- Xiang Huang
+- Wei Sun
+- Xiaoping Zhu
 
 date: "2023-06-18T00:00:00Z"
 
