@@ -27,7 +27,7 @@ publishDate: "2022-09-08T00:00:00Z"
 
 # Publication name and optional abbreviated publication name.
 publication: "The 39th IEEE International Conference on Data Engineering"
-publication_short: "To appear in ***IEEE ICDE 2023***"
+publication_short: "**IEEE ICDE 2023**"
 
 tags:
 - others
