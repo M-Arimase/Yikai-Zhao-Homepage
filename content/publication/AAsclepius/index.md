@@ -21,13 +21,13 @@ authors:
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-date: "2023-04-03T20:00:00+08:00"
+date: "2023-07-10T20:00:00+08:00"
 
-publishDate: "2023-02-10T00:00:00Z"
+publishDate: "2023-04-28T00:00:00Z"
 
 # Publication name and optional abbreviated publication name.
-publication: "The 39th IEEE International Conference on Data Engineering"
-publication_short: "**IEEE ICDE 2023**"
+publication: "2023 USENIX Annual Technical Conference"
+publication_short: "To appear in ***USENIX ATC 2023***"
 
 tags:
 - others
