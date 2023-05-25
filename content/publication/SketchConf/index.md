@@ -5,14 +5,14 @@ title: "SketchConf: A Framework for Automatic Sketch Configuration"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- <p>Ruijie Miao<sup>*</sup></p>
-- <p>Fenghao Dong<sup>*</sup></p>
-- <p>admin<sup>*</sup></p>
-- <p>Yiming Zhao</p>
-- <p>Yuhan Wu</p>
-- <p>Kaicheng Yang</p>
-- <p>Tong Yang</p>
-- <p>Bin Cui</p>
+- Ruijie Miao
+- Fenghao Dong
+- admin (co-first author)
+- Yiming Zhao
+- Yuhan Wu
+- Kaicheng Yang
+- Tong Yang
+- Bin Cui
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
