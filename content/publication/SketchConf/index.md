@@ -5,9 +5,9 @@ title: "SketchConf: A Framework for Automatic Sketch Configuration"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Ruijie Miao
-- Fenghao Dong
-- admin
+- Ruijie Miao\*
+- Fenghao Dong\*
+- admin\*
 - Yiming Zhao
 - Yuhan Wu
 - Kaicheng Yang
@@ -29,6 +29,6 @@ publication: "The 39th IEEE International Conference on Data Engineering"
 publication_short: "**IEEE ICDE 2023**"
 
 tags:
-- others
+- selected
 
 ---
