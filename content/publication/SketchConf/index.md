@@ -7,7 +7,8 @@ title: "SketchConf: A Framework for Automatic Sketch Configuration"
 authors:
 - Ruijie Miao
 - Fenghao Dong
-- admin (co-first author)
+- admin 
+- (co-first author)
 - Yiming Zhao
 - Yuhan Wu
 - Kaicheng Yang
