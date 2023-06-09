@@ -7,7 +7,7 @@ title: "BurstBalancer: Do Less, Better Balance for Large-scale Data Center Traff
 authors:
 - Zirui Liu
 - admin
-- (co-first author)
+- (co-primary author)
 - Zhuochen Fan
 - Tong Yang
 - Xiaodong Li

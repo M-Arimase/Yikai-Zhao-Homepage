@@ -8,7 +8,7 @@ authors:
 - Ruijie Miao
 - Fenghao Dong
 - admin 
-- (co-first author)
+- (co-primary author)
 - Yiming Zhao
 - Yuhan Wu
 - Kaicheng Yang
