@@ -4,7 +4,16 @@ title: "P4LRU: Towards An LRU Cache Entirely in Programmable Data Plane"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
-authors: [**Yikai Zhao**, Wenrui Liu, Fenghao Dong, Tong Yang, Yuanpeng Li, Kaicheng Yang, Zirui Liu, Zhengyi Jia, Yongqiang Yang]
+authors:
+- admin
+- Wenrui Liu
+- Fenghao Dong
+- Tong Yang
+- Yuanpeng Li
+- Kaicheng Yang
+- Zirui Liu
+- Zhengyi Jia
+- Yongqiang Yang
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
