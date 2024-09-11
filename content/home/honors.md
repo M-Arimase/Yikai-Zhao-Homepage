@@ -24,13 +24,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 ---
 
+- Chancellor's Scholarship (校长奖学金), Peking University (2020, 2021, 2022, 2023)
+
+- Merit Studen (三好学生), Peking University (2021, 2022, 2023)
+
+- Lingjun Pioneer Scholarship (灵均领航奖学金), Peking University (2023)
+
 - Huatai Securities Science & Technology Scholarship (华泰证券科技奖学金), Peking University (2022)
 
-- Chancellor's Scholarship (校长奖学金), Peking University (2020, 2021, 2022)
-
 - Tung Scholarship (董氏奖学金), Peking University (2021)
-
-- Merit Studen (三好学生), Peking University (2021, 2022)
 
 - Award for Academic Excellence (学习优秀奖), Peking University (2017, 2019)
 
