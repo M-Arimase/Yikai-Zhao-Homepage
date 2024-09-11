@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining"
-publication_short: "To appear in ***ACM SIGKDD 2023***"
+publication_short: "**ACM SIGKDD 2023**"
 
 tags:
 - others

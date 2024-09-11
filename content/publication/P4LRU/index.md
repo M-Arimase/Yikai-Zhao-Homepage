@@ -27,7 +27,7 @@ publishDate: "2023-05-17T00:00:00Z"
 
 # Publication name and optional abbreviated publication name.
 publication: "Annual Conference of the ACM Special Interest Group on Data Communication"
-publication_short: "To appear in ***ACM SIGCOMM 2023***"
+publication_short: "**ACM SIGCOMM 2023**"
 
 tags:
 - selected
