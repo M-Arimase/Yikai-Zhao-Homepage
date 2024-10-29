@@ -30,6 +30,5 @@ publication: "The 39th IEEE International Conference on Data Engineering"
 publication_short: "**IEEE ICDE 2023**"
 
 tags:
-- selected
 
 ---
