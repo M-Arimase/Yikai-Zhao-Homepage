@@ -37,7 +37,7 @@ publishDate: "2023-04-28T00:00:00Z"
 
 # Publication name and optional abbreviated publication name.
 publication: "2023 USENIX Annual Technical Conference"
-publication_short: "To appear in ***USENIX ATC 2023***"
+publication_short: "**USENIX ATC 2023**"
 
 tags:
 - others

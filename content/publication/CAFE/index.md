@@ -1,19 +1,21 @@
 ---
-title: "P4LRU: Towards An LRU Cache Entirely in Programmable Data Plane"
+title: "CAFE: Towards Compact, Adaptive, and Fast Embedding for Large-scale Recommendation Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin
-- Wenrui Liu
-- Fenghao Dong
-- Tong Yang
-- Yuanpeng Li
-- Kaicheng Yang
+- Hailin Zhang
 - Zirui Liu
-- Zhengyi Jia
-- Yongqiang Yang
+- Boxuan Chen
+- admin
+- Tong Zhao
+- Tong Yang
+- Bin Cui
+
+date: "2024-07-01T00:00:00Z"
+
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,15 +23,11 @@ authors:
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-date: "2023-09-10T00:00:00Z"
-
-publishDate: "2023-05-17T00:00:00Z"
-
 # Publication name and optional abbreviated publication name.
-publication: "Annual Conference of the ACM Special Interest Group on Data Communication"
-publication_short: "**ACM SIGCOMM 2023**"
+publication: "The 50th ACM International Conference on Management of Data"
+publication_short: "**ACM SIGMOD 2024**"
 
 tags:
-- selected
+- others
 
 ---
