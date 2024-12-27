@@ -1,5 +1,5 @@
 ---
-title: "Double-Anonymous Sketch: Achieving Fairness for Finding Global Top-K Frequent Items"
+title: "Double-Anonymous Sketch: Achieving Top-K-fairness for Finding Global Top-K Frequent Items"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
